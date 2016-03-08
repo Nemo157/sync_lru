@@ -1,0 +1,7 @@
+[package]
+name = "sync_lru"
+version = "0.1.0"
+authors = ["Wim Looman <wim@nemo157.com>"]
+
+[dependencies]
+time = "0.1"
